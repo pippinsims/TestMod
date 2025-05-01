@@ -1,4 +1,6 @@
 {
   "item.testmod.example_item": "Example Item",
-  "item.testmod.example_item_2": "Example Item 2"
+  "item.testmod.example_item_2": "Example Item 2",
+  "block.testmod.squishy_squib": "Completely Normal Blok",
+  "block.testmod.squishy_squabble": "Squabbler Squishy"
 }

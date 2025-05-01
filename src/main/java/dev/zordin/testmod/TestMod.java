@@ -1,5 +1,6 @@
 package dev.zordin.testmod;
 
+import dev.zordin.testmod.Init.BlockInit;
 import dev.zordin.testmod.Init.ItemInit;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.common.Mod;
@@ -13,6 +14,7 @@ public class TestMod {
     {
         IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
 
+        BlockInit.BLOCKS.register(bus);
         ItemInit.ITEMS.register(bus);
     }
 }
