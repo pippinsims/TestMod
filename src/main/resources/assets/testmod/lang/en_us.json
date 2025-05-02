@@ -3,5 +3,6 @@
   "item.testmod.example_item_2": "Codex Inference: Decrypted",
   "block.testmod.squishy_squib": "Squishy Squib",
   "block.testmod.squishy_squabble": "Squishy Squabble",
-  "itemGroup.testmod": "Modules"
+  "itemGroup.testmod": "Modules",
+  "item.testmod.krunchy_munchy": "Codex Inference: Overshield"
 }
