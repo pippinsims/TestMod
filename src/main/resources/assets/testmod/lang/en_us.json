@@ -1,6 +1,7 @@
 {
-  "item.testmod.example_item": "Example Item",
-  "item.testmod.example_item_2": "Example Item 2",
+  "item.testmod.example_item": "Codex Inference",
+  "item.testmod.example_item_2": "Codex Inference: Decrypted",
   "block.testmod.squishy_squib": "Squishy Squib",
-  "block.testmod.squishy_squabble": "Squishy Squabble"
+  "block.testmod.squishy_squabble": "Squishy Squabble",
+  "itemGroup.testmod": "Modules"
 }
