@@ -14,7 +14,4 @@ public class ItemInit {
 
     public static final RegistryObject<Item> EXAMPLE_ITEM = ITEMS.register("example_item", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_FOOD)));
     public static final RegistryObject<Item> EXAMPLE_ITEM2 = ITEMS.register("example_item_2", () -> new Item(new Item.Properties().tab(CreativeModeTab.TAB_FOOD).durability(1)));
-
-    public static final RegistryObject<BlockItem> SQUISHY_SQUIB_ITEM = ITEMS.register("squishy_squib", () -> new BlockItem(BlockInit.SQUISHY_SQUIB.get(), new Item.Properties().tab(CreativeModeTab.TAB_DECORATIONS)));
-    public static final RegistryObject<BlockItem> SQUISHY_SQUABBLE_ITEM = ITEMS.register("squishy_squabble", () -> new BlockItem(BlockInit.SQUISHY_SQUABBLE.get(), new Item.Properties().tab(CreativeModeTab.TAB_DECORATIONS)));
 }
