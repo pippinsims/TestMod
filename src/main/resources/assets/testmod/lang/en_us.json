@@ -4,5 +4,9 @@
   "block.testmod.squishy_squib": "Squishy Squib",
   "block.testmod.squishy_squabble": "Squishy Squabble",
   "itemGroup.testmod": "Modules",
-  "item.testmod.krunchy_munchy": "Codex Inference: Overshield"
+  "item.testmod.krunchy_munchy": "Codex Inference: Overshield",
+  "item.testmod.data_scythe": "Data Scythe",
+  "item.testmod.data_exhumer": "Data Exhumer",
+  "item.testmod.data_cruncher": "Data Cruncher",
+  "item.testmod.data_breaker": "Data Breaker"
 }
