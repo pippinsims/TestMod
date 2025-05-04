@@ -8,5 +8,9 @@
   "item.testmod.data_scythe": "Data Scythe",
   "item.testmod.data_exhumer": "Data Exhumer",
   "item.testmod.data_cruncher": "Data Cruncher",
-  "item.testmod.data_breaker": "Data Breaker"
+  "item.testmod.data_breaker": "Data Breaker",
+  "item.testmod.data_helm": "Data Helm",
+  "item.testmod.data_vest": "Data Vest",
+  "item.testmod.data_greaves": "Data Greaves",
+  "item.testmod.data_striders": "Data Striders"
 }
