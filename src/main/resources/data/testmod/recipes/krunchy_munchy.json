@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "testmod:example_item_2"
+    },
+    "$": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "&": {
+      "item": "minecraft:shield"
+    }
+  },
+  "pattern": [
+    "$#$",
+    "#&#",
+    "$#$"
+  ],
+  "result": {
+    "item": "testmod:krunchy_munchy"
+  }
+}
